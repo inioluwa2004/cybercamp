@@ -1,0 +1,40 @@
+body {
+    background-image: url(witch.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top 
+}
+
+.logo {
+    width: 95px
+}
+
+.navbar{
+    padding:15px
+}
+
+.navbar a {
+    float: right;
+    color:white
+    text-decoration: none
+}
+
+.column p {
+    font-size:14px
+}
+
+.column {
+    width: 400px;
+    color:white
+    padding-top: 150px;
+}
+
+.first {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.second {
+    text-transform:uppercase;
+    font-size: 50em;
+}

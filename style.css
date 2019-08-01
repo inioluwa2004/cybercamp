@@ -1,0 +1,39 @@
+body {
+    background-color:brown;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+h2{
+    color: rosybrown
+}
+h3{
+    color: goldenrod
+}
+h4{
+    color: green
+}
+h5{
+    color: rebeccapurple
+}
+h6{
+    color:peru
+}
+
+p {
+    font-family: Arial;
+    font-size: 20px
+}
+
+a {
+    color: green
+}
+input{
+    margin: 1em
+}
+h2{
+    color: red
+    
+}
